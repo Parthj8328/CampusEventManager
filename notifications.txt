@@ -1,1 +1,2 @@
 Added event reminder notification.
+Added registration confirmation notification.
