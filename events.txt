@@ -2,4 +2,4 @@ Changing from feature-update branch
 SIH Hackathon 25th November 2026 Auditorium
 Technical Quiz Competition 26th december Auditorium
 Registration can be done onlinee tooo
-
+Event management system version 1.1.
