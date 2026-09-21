@@ -1,0 +1,3 @@
+Students can register for events using their college ID.
+Registration closes two days before the event.
+A confirmation message is sent after successful registration.
