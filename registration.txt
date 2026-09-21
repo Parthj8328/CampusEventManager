@@ -1,3 +1,0 @@
-registration process : 
-Students can register for events using their college ID.
-A confirmation message is sent to team leader contact number  after successful registration.
